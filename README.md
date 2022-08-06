@@ -1,4 +1,4 @@
-# Nova-York
+# New-York
 
  New York Price predictions
  
